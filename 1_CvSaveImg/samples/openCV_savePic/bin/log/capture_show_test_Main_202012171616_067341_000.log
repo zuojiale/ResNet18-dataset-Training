@@ -1,0 +1,6 @@
+2020-12-17 16:16:59.820 [67342] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1923
+2020-12-17 16:16:59.820 [67342] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=1 display=true log4z.cpp:1933
+2020-12-17 16:16:59.884 [67341] LOG_INFO Initializing TCP connection... CEthernetTofsdk.cpp:107
+2020-12-17 16:16:59.987 [67341] LOG_INFO Successfully initialized TCP connection. CEthernetTofsdk.cpp:114
+2020-12-17 16:17:00.391 [67341] LOG_INFO Initializing UDP socket. CEthernetTofsdk.cpp:118
+2020-12-17 16:17:00.408 [67341] LOG_INFO Successfully initialized UDP socket. CEthernetTofsdk.cpp:126
